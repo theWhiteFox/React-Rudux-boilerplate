@@ -1,5 +1,7 @@
 # Getting Started with Create React App and Redux
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/140be941-b3e0-4518-8a6f-790c33db4751/deploy-status)](https://app.netlify.com/sites/start-redux/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
