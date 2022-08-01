@@ -12,6 +12,16 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+        <a
+            className="App-link"
+            href="https://github.com/theWhiteFox/redux-starter"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub Repo
+        </a>
+        </p>
         <span>
           <span>Learn </span>
           <a
