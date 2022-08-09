@@ -1,4 +1,4 @@
-# theWhgiteFox React boilerplate
+# theWhiteFox React Redux boilerplate
 This will be my boilerplate for React projects
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/140be941-b3e0-4518-8a6f-790c33db4751/deploy-status)](https://app.netlify.com/sites/start-redux/deploys)
