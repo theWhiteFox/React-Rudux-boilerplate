@@ -1,12 +1,11 @@
 import React from "react";
-import Navbar from "../components/NavBar";
+
 import logo from '../logo.svg';
 import { Counter } from "../features/counter/Counter";
 
 const HomePage = () => {
   return (
     <>
-      <Navbar />
       <div className="App">
         <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
